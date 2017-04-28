@@ -7,3 +7,4 @@ distributed repository for Idris packages
 - hash proof of type definitions
 - package resolution by names and types
 - no versions
+- interface to public git servers

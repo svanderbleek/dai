@@ -5,5 +5,5 @@ distributed repository for Idris packages
 
 - decentralized append-only package store over ipfs
 - hash proof of type definitions
-- package resolution by name and type
+- package resolution by names and types
 - no versions

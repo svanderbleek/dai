@@ -9,6 +9,4 @@ distributed repository for Idris packages
 - distributed append-only package store
 - proof of type definitions
 - package resolution by namespace, name, and type
-- easy to run repository servers
 - package isolation based on use, elimination of unused dependcies
-- manual override through dependency file

@@ -1,12 +1,9 @@
-# elba
+# dai
 
-> Elba is a Mediterranean island in Tuscany, Italy, 10 kilometres from the coastal town of Piombino, the largest island of the Tuscan Archipelago.
+> a stickler for the regulations of the railway, but sometimes bends the rules to help his friends 
 
 distributed repository for Idris packages
 
 ## goals
 
-- distributed append-only package store
-- proof of type definitions
-- package resolution by namespace, name, and type
-- package isolation based on use, elimination of unused dependcies
+- index packages
